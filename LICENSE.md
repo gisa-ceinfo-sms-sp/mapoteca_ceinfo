@@ -1,3 +1,6 @@
+Este trabalho está licenciado sob a Creative Commons Attribution-ShareAlike 4.0 International License. Para mais informações, consulte [https://creativecommons.org/licenses/by-sa/4.0/deed.en].
+
+
 Attribution-ShareAlike 4.0 International
    CC BY-SA 4.0
 
